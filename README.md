@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a final year student in Computer Science and working on Data Analysis and Machine learning. I'm looking to collaborate on projects/challenges with outsiders on the same interest as me in Omdena or any other ways. I'm currently learning about Computer vision and Neural networks as well. Fun fact is I never knew that I'd be this much of a geek.
+I'm currently a final year student in Computer Science and working on Data Analysis and Machine learning. I'm looking to collaborate on projects/challenges with outsiders on the same interest as me in Omdena or any other ways. Moreover, I'm learning about Computer vision and Neural networks as well. Fun fact is I never knew that I'd be this much of a geek.
 
 
 #### 🌐 Socials:
