@@ -19,7 +19,7 @@ I'm currently an outgoing student in Computer Science and working on Data Analys
 
 
 #### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eU4eB4AtPr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Afraim.bs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mohammad-afraim-096721234) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eU4eB4AtPr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Afraim.bs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mohammad-afraim-096721234) [![Kaggle](https://img.shields.io/badge/Kaggle-0095D5?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmohammadafraim2)
 
 
 
