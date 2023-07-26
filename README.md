@@ -23,4 +23,4 @@ I'm currently a final year student in Computer Science and working on Data Analy
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Shikamaru77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
