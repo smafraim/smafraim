@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm currently an outgoing student in Computer Science and working on Data Analysis and Machine learning. I'm looking to collaborate on projects/challenges with outsiders on the same interest as me. Moreover, I'm learning about Computer vision and Neural networks as well. Fun fact is I never knew that I'd be this much of a geek.
 
 👩‍🎓 **About Me**
-- Outgoing Student in International Islamic University Chittagong.
+- Outgoing Student in [International Islamic University Chittagong](https://www.iiuc.ac.bd/).
 - Engaged in predictive and prescriptive data analysis and machine learning projects.
-- Enthusiastic about singing, football, and an ardent Madrid fan.
+- Enthusiastic about singing, football, and an ardent Real Madrid fan.
 
 🌟 **Personal Projects**
 - Python + Render deployment : [AQI prediction for Bangladesh.](https://github.com/Shikamaru77/BD_AQI)
