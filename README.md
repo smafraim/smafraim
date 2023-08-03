@@ -23,20 +23,22 @@ I'm currently an outgoing student in Computer Science and working on Data Analys
 - Enthusiastic about singing, football, and an ardent Madrid fan.
 
 🌟 **Personal Projects**
-- Python + Render deployment : AQI prediction for Bangladesh 
+- Python + Render deployment : [AQI prediction for Bangladesh.](https://github.com/Shikamaru77/BD_AQI)
 
 📊 **Data-driven Projects**
-- Python + Tableau: Demonstration of strategies for enhancing market share with Bellabeat Fitness data.
-- SQL+ Python + Tableau: Crafting innovative marketing campaigns with Cyclistic Bike-Share data.
-- Python: Created a predictive model for laptop prices using Python.
+- Python + Tableau: [Demonstration of strategies for enhancing market share with Bellabeat Fitness data.](https://github.com/Shikamaru77/Data-Analytics-Bellabeat-Case-Study/blob/main/Case%20Study%20-%20Bellabeat/.ipynb_checkpoints/Case%20Study%20-%20Bellabeat-checkpoint.ipynb)
+- SQL+ Python + Tableau: [Crafting innovative marketing campaigns with Cyclistic Bike-Share data.](https://github.com/Shikamaru77/Google-Data-Analytics-Case-Study-Cyclistic-Bike-share)
+- Python: [Created a predictive model for laptop prices using Python.](https://github.com/Shikamaru77/ML_models/blob/main/ML_projects/Laptop%20price%20prediction.ipynb)
 
 💻 **Machine Learning and Statistical Ventures**
-- Python: Developed Indian flight fare prediction.
-- Python: Pioneered CNN and RNN techniques for recognizing handwritten mathematical formulas.
+- Python: [Developed Indian flight fare prediction.](https://github.com/Shikamaru77/Flights-fare-prediction)
+- Python: [Pioneered CNN and RNN techniques for recognizing handwritten mathematical formulas.](https://github.com/Shikamaru77/Neural-Network/tree/main/Mathematical%20formulas%20recognition)
+- Python: [Developed an end-to-end project for classifying and detecting various fruits.](https://github.com/Shikamaru77/Fruits-Classification-and-Detection)
 
-📫 **Find Me on Kaggle and Tableau**
-- Kaggle Profile: [S. M. Afraim](https://www.kaggle.com/syedmohammadafraim2)
+📈📉 **Viz**
+- PowerBI: [Projects](https://github.com/Shikamaru77/Visualizations/tree/main/PowerBI)
 - Tableau Public Profile: [S. M. Afraim](https://public.tableau.com/app/profile/syed.mohammad.afraim)
+ 
 
 
 #### 🌐 Socials:
