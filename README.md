@@ -27,13 +27,13 @@ I'm currently an outgoing student in Computer Science and working on Data Analys
 
 📊 **Data-driven Projects**
 - Python + Tableau: [Demonstration of strategies for enhancing market share with Bellabeat Fitness data.](https://github.com/Shikamaru77/Data-Analytics-Bellabeat-Case-Study/blob/main/Case%20Study%20-%20Bellabeat/.ipynb_checkpoints/Case%20Study%20-%20Bellabeat-checkpoint.ipynb)
-- SQL+ Python + Tableau: [Crafting innovative marketing campaigns with Cyclistic Bike-Share data.](https://github.com/Shikamaru77/Google-Data-Analytics-Case-Study-Cyclistic-Bike-share)
+- Python : [A Comprehensive Data Analysis of COVID-19- Identifying the high-risk areas](https://github.com/smafraim/DataScience_Bootcamp/blob/main/DS-CONTEST/Part%20-%202%20of%20DS%20contest/A%20Comprehensive%20Data%20Analysis%20of%20COVID-19-%20Identifying%20the%20high-risk%20areas.ipynb)
 - Python: [Created a predictive model for laptop prices using Python.](https://github.com/Shikamaru77/ML_models/blob/main/ML_projects/Laptop%20price%20prediction.ipynb)
 
 💻 **Machine Learning and Statistical Ventures**
 - Python: [Developed Indian flight fare prediction.](https://github.com/Shikamaru77/Flights-fare-prediction)
 - Python: [Pioneered CNN and RNN techniques for recognizing handwritten mathematical formulas.](https://github.com/Shikamaru77/Neural-Network/tree/main/Mathematical%20formulas%20recognition)
-- Python: [Developed an end-to-end project for classifying and detecting various fruits.](https://github.com/Shikamaru77/Fruits-Classification-and-Detection)
+- Python: [News Articles Share Prediction using Machine Learning]([https://github.com/Shikamaru77/Fruits-Classification-and-Detection](https://github.com/smafraim/News-Articles-Share-Prediction-using-Machine-Learning))
 
 📈📉 **Viz**
 - PowerBI: [Projects](https://github.com/Shikamaru77/Visualizations/tree/main/PowerBI)
