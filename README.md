@@ -32,8 +32,11 @@ I'm currently an outgoing student in Computer Science and working on Data Analys
 
 💻 **Machine Learning and Statistical Ventures**
 - Python: [Developed Indian flight fare prediction.](https://github.com/Shikamaru77/Flights-fare-prediction)
+- Python: [News Articles Share Prediction using Machine Learning (NLP)](https://github.com/smafraim/News-Articles-Share-Prediction-using-Machine-Learning)
+
+🧠 **Deep Learning Projects*
+- Python: [DL_Fashion-items-recognition](https://github.com/smafraim/DL_Fashion-items-recognition)
 - Python: [Pioneered CNN and RNN techniques for recognizing handwritten mathematical formulas.](https://github.com/Shikamaru77/Neural-Network/tree/main/Mathematical%20formulas%20recognition)
-- Python: [News Articles Share Prediction using Machine Learning](https://github.com/smafraim/News-Articles-Share-Prediction-using-Machine-Learning)
 
 📈📉 **Viz**
 - PowerBI: [Projects](https://github.com/Shikamaru77/Visualizations/tree/main/PowerBI)
